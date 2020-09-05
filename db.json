@@ -2,7 +2,7 @@
   "validate": { 
     "validate": "true" 
   },
-  "comments": [
+  "reports": [
    {
       "reportId":1,
       "venue":{
