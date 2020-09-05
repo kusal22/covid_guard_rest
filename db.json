@@ -3,9 +3,49 @@
     "validate": "true" 
   },
   "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
+   {
+      "reportId":1,
+      "venue":{
+         "id":1,
+         "venueDisplayId":"test_venue",
+         "lastUpdated":"2020-08-31T15:47:54.000+00:00",
+         "status":"ACTIVE",
+         "venueId":1,
+         "macid":"123123123"
+      },
+      "startTime":"2020-08-16T15:48:39.000+00:00",
+      "endTime":"2020-08-31T15:48:34.000+00:00",
+      "lastUpdated":"2020-08-31T15:48:37.000+00:00"
+   },
+   {
+      "reportId":2,
+      "venue":{
+         "id":1,
+         "venueDisplayId":"test_venue",
+         "lastUpdated":"2020-08-31T15:47:54.000+00:00",
+         "status":"ACTIVE",
+         "venueId":1,
+         "macid":"123123123"
+      },
+      "startTime":"2020-08-16T15:48:39.000+00:00",
+      "endTime":"2020-08-31T15:48:34.000+00:00",
+      "lastUpdated":"2020-08-31T15:48:37.000+00:00"
+   },
+   {
+      "reportId":3,
+      "venue":{
+         "id":1,
+         "venueDisplayId":"test_venue",
+         "lastUpdated":"2020-08-31T15:47:54.000+00:00",
+         "status":"ACTIVE",
+         "venueId":1,
+         "macid":"123123123"
+      },
+      "startTime":"2020-08-16T15:48:39.000+00:00",
+      "endTime":"2020-08-25T15:48:34.000+00:00",
+      "lastUpdated":"2020-09-01T15:48:37.000+00:00"
+   }
+],
   "profile": {
     "name": "typicode"
   }
