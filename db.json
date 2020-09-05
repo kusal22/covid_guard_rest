@@ -25,7 +25,18 @@
       "lastUpdated":"2020-09-01T15:48:37.000+00:00"
    }
 ],
-  "profile": {
-    "name": "typicode"
-  }
+  "venues": [
+   {
+      "venueId":1,
+      "venueDisplayId":"test_venue1"
+   },
+   {
+      "venueId":2,
+      "venueDisplayId":"test_venue2"
+   },
+   {
+      "venueId":3,
+      "venueDisplayId":"test_venue3"
+   }
+]
 }
